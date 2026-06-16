@@ -1,27 +1,37 @@
-👋 Olá, eu sou Yasllan
+# Olá, eu sou Yasllan 👋
+💻 Sobre mim
 
-🎓 Estudante de Desenvolvimento de Sistemas | SESI-SENAI Cruzeiro/Lorena
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas pelo SESI-SENAI de Cruzeiro/Lorena e estou em constante aprendizado na área de tecnologia.
 
-Apaixonado por tecnologia, programação e desenvolvimento de soluções inovadoras.
+Tenho interesse em desenvolvimento de software, infraestrutura de TI e automação, buscando sempre aprimorar meus conhecimentos por meio de projetos práticos e estudos contínuos.
 
+Atualmente estou desenvolvendo habilidades técnicas e profissionais para construir soluções eficientes, escaláveis e alinhadas às boas práticas da engenharia de software.
 
-🚀 Sobre Mim
-🎓 Cursando Técnico em Desenvolvimento de Sistemas
-💡 Interesse em Desenvolvimento de Software e Tecnologia
-📚 Sempre aprendendo novas ferramentas e tecnologias
-🎯 Focado em crescimento profissional e aprendizado contínuo
-🛠️ Tecnologias em Aprendizado
-⭐ Competências
-✔️ Autonomia no aprendizado e execução de tarefas
-✔️ Organização e gestão de tempo
-✔️ Trabalho em equipe e comunicação
-✔️ Resolução de problemas lógicos
-✔️ Facilidade de aprendizado de novas tecnologias
-✔️ Desenvolvimento de projetos acadêmicos
-🎯 Objetivo
+📈 Objetivos
 
+Busco oportunidades para adquirir experiência prática na área de tecnologia, colaborar em projetos desafiadores e evoluir constantemente como desenvolvedor.
 
-Busco evoluir como desenvolvedor de sistemas, adquirindo experiência prática em programação e tecnologias, com foco em me tornar um profissional qualificado na área de desenvolvimento de software. Tenho como objetivo conquistar um estágio, participar de projetos reais e continuar aprimorando minhas habilidades técnicas e lógicas.
+🚀 Tecnologias e Conhecimentos
+Linguagens e Desenvolvimento
 
+Python C++ Arduino
 
-Contato: yasllan.araujo@portalsesisp.org.br
+Sistemas Operacionais e Infraestrutura
+
+Linux Ubuntu Windows CMD Redes e Infraestrutura de TI
+
+Engenharia de Software
+
+Levantamento de requisitos Modelagem de sistemas Desenvolvimento de projetos Boas práticas de programação
+
+📚 Atualmente Estudando
+
+Desenvolvimento de aplicações com Python Programação embarcada com Arduino Administração de sistemas Linux Engenharia de Software Versionamento com Git e GitHub Redes de computadores
+
+🎯 Competências
+
+✅ Autonomia ✅ Gestão de Tempo ✅ Desenvolvimento de Projetos de Software ✅ Boa Comunicação ✅ Trabalho em Equipe ✅ Resolução de Problemas ✅ Aprendizado Contínuo
+
+⭐ Sempre aberto a novos aprendizados, desafios e oportunidades de crescimento profissional.
+
+📫 Contato E-mail: yasllan.araujo@portalsesisp.org.br
